@@ -16,7 +16,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### USDOT
 - **National Roadway Safety Strategy** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf)
-- **USDOT Safe Systems Brochure** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20SS%20Brochure.pdf)
+- **USDOT Safe Systems (SS) Brochure** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20SS%20Brochure.pdf)
+- **Integrating SS System** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf)
+
+
 
 ### FHWA
 - **A SS Framework and Analytics for Intersections** Porter et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20Porter%20SS%20Analytical%20Intersection.pdf)
@@ -29,11 +32,16 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### Collaborative Sciences Center for Road Safety (CSCRS)
 - **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf)
+- **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf)
+- **Structures of Stakeholders Relationship** LaJenueese et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20RS%20Stakeholders.pdf)
+
+
+
 
 ### Other Countries
-- **Towards a SS of Cycling** NZ Transport Agency (2017)[[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
+- **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
 
 
 ### Austroads Documents
-- **Improving the Performance of SS Infrastructure** Jurewicz et al. (2015)[[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2015%20Jurewicz%20SS%20Infrastructure.pdf)
-- **SS Assessment Framework** Turner et al. (2016)[[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2016%20Turner%20SS%20Assessment%20Framework.pdf)
+- **Improving the Performance of SS Infrastructure** Jurewicz et al. (2015) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2015%20Jurewicz%20SS%20Infrastructure.pdf)
+- **SS Assessment Framework** Turner et al. (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2016%20Turner%20SS%20Assessment%20Framework.pdf)
