@@ -45,3 +45,16 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### Austroads Documents
 - **Improving the Performance of SS Infrastructure** Jurewicz et al. (2015) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2015%20Jurewicz%20SS%20Infrastructure.pdf)
 - **SS Assessment Framework** Turner et al. (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2016%20Turner%20SS%20Assessment%20Framework.pdf)
+- **Incorporating the SS and sociodemographics** Shi et al. (2013) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/(NPR)%20Shi%20-%20Safe%20System.pdf)
+- **Striving for SS speeds** Beer (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2011%20Beer%20Striving%20for%20Safe%20System%20Speeds.pdf)
+- **Classifying SS Fatalities** Smith et al. (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2011%20Page-Smith%20Classifying%20Safe%20System%20Fatalities.pdf)
+- **Greater understanding of rear-end crashes in a SS** Beck (2015) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2015%20Beck%20Greater%20understanding%20of%20rear%20end%20crashes%20in%20a%20Safe%20System.pdf)
+- **Comparing crashes: A SS analysis** Mackie et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2018%20(EA)%20Mackie%20Comparing%20crashes.pdf)
+- **ISO 39001: A New Tool for SS** Crackel and Small (2010) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2010%20Crackel%20ISO%2039001%20A%20New%20Tool%20for%20Safe%20Systems.pdf)
+- **Effective use of clear zones and barriers in a SS context** Doecke and Woolley (2010) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2010%20Doecke%20Effective%20use%20of%20clear%20zones.pdf)
+- **Increasing SS Awareness** Harrison et al. (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2011%20Cruise%20Safe%20System%20Awareness.pdf)
+- **SS Infrastructure** Hall (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2011%20Hall%20Safe%20System%20Infrastructure%20from%20Theory%20to%20Practice.pdf)
+
+
+
+
