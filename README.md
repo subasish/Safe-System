@@ -23,7 +23,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### USDOT
 **[`^        back to top        ^`](#)**
-- **National Roadway Safety Strategy** (2022) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf) `pete` `imp`
+- **National Roadway Safety Strategy** (2022) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf) `transportation secretary` `imp`
 - **USDOT Safe Systems (SS) Brochure** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20SS%20Brochure.pdf) `imp`
 - **Integrating SS System** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf)
 
@@ -33,6 +33,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 **[`^        back to top        ^`](#)**
 - **A SS Framework and Analytics for Intersections** Porter et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20Porter%20SS%20Analytical%20Intersection.pdf) `intersection` `imp`
 - **Public Road Magazine: SS Issue** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20Public%20Roads%20SS.pdf) `imp`
+- **SSA with HSIP** Finkel et al. (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf) `HSIP`
+
 
 
 ### DOT
@@ -43,14 +45,20 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### CSCRS
 **[`^        back to top        ^`](#)**
 - **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav`
-- **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf)
+- **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf) 
 - **Structures of Stakeholders Relationship** LaJenueese et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20RS%20Stakeholders.pdf)
+- **Implementating SS in the U.S.: Lesson from International Practice** Dumbaugh et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2019%20CSCRS%20Implement%20SS%20in%20US.pdf)
+
+
 
 
 ### Austroads
 **[`^        back to top        ^`](#)**
 - **Improving the Performance of SS Infrastructure** Jurewicz et al. (2015) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2015%20Jurewicz%20SS%20Infrastructure.pdf) `safer roads`
-- **SS Assessment Framework** Turner et al. (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2016%20Turner%20SS%20Assessment%20Framework.pdf)
+- **SS Assessment Framework** Turner et al. (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2016%20Turner%20SS%20Assessment%20Framework.pdf) `assessment`
+- **Rollover Crashes: Risk Factors and Solutions** Jurewicz et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoads/2019%20Jurewicz%20Rollover%20Risk%20Factors.pdf) `rollover`
+
+
 
 
 ### ARSC
@@ -101,24 +109,24 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Can Mobility Management Deliver the Next Step-change** Jurewicz et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20Jurewicz%20Can%20%20Mobility%20Management%20%20Deliver%20%20the%20Next%20%20Step-chang.pdf)
 - **Ensuring Return on Investment** Luzan and Corben (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20Luzan%20Beyond%20BCR%20Ensuring%20return%20on%20investment%20while%20strategically%20delivering%20safe%20system%20outcomes.pdf)
 - **SS Review of Fatal Crashes** Hodgson et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2019%20(EA)%20Hodgson%20Safe%20System%20Review%20of%20Fatal%20Crashes%20in%20the%20ACT.pdf) `crash`
-- **Road user perception of safety** Stokes et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2019%20Stokes%20Road-user-perception-of-Safety-at-Safe-System-Intersections1.pdf)
+- **Road user perception of safety** Stokes et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2019%20Stokes%20Road-user-perception-of-Safety-at-Safe-System-Intersections1.pdf) `safer users`
 - **Developing SS projects in Africa** Usami et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2019%20Usami%20SS%20Africa.pdf)
 - **Use of the SS Assessment Framwork** McHeim et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2021%20McHeim%20Use%20of%20the%20Safe%20System%20Assessment.pdf) `assessment`
 - **Vulnerable road users in a SS** Bailey and Woolley (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Bailey%20Vulnerable%20road%20users%20in%20a%20Safe%20System.pdf) `vru`
 - **Rationalisation of speed limits** Cameron (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Cameron%20Rationalisation%20of%20speed%20limits%20within%20the%20Safe%20System%20approach.pdf) `safer speeds`
 - **The Use of a Safety Platform at an Intersection** Candappa et al. (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Candappa%20The%20Use%20of%20a%20Safety%20Platform%20at%20an%20Intersection%20to%20Align%20Approach%20Speeds.pdf) `intersection`
-- **Non-motor vehicle related pedestrian injury** Frith and Thomas (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Frith%20Non-motor%20vehicle%20related%20pedestrian%20injury.pdf) `vru`
+- **Non-motor vehicle related pedestrian injury** Frith and Thomas (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Frith%20Non-motor%20vehicle%20related%20pedestrian%20injury.pdf) `vru` `crash`
 - **Re-invigorating and refining SS advocacy** Job (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Job%20Re-invigorating%20and%20refining%20Safe%20System%20advocacy.pdf)
-- **Assessing and Managing Older Drivers' Crash Risk** Langford and Oxley (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Langford%20Assessing%20and%20Managing%20Older%20Drivers.pdf)
+- **Assessing and Managing Older Drivers' Crash Risk** Langford and Oxley (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Langford%20Assessing%20and%20Managing%20Older%20Drivers.pdf) `safer users`
 - **The Robustly-Safe Automated Driving System** Liu et al. (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Liu%20The%20%20Robustly-Safe%20Automated%20%20Driving%20%20System%20%20for%20%20Enhanced%20Active%20%20Safety.pdf)
 - **The Safe System- Are We on The Wrong Track** Mackenzie (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Mackenzie%20The%20Safe%20System%20Are%20We%20on%20The%20Wrong%20Track.pdf)
 - **Techniques for Paradigm Improvements** McLean (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Mclean%20Techniques%20%20for%20%20Paradigm%20%20Improvements%20%20Towards%20a%20Heavy%20%20Vehicle%20%20Safe%20%20System.pdf)
-- **Understanding Driving Culture: SS and the ACT** Wright and Gibson (2010) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Rickwood%20Understanding%20Driving%20Culture%20Safe%20System.pdf)
-- **SS Demonstration Project** Senserrick et al. (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Senserrick%20Safe%20System%20Demonstration%20Project.pdf)
-- **Exploring an application of the SS Approach** Shaw et al. (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Shaw%20Exploring%20an%20application%20of%20the%20Safe%20System%20Approach.pdf)
-- **Learnings from Phase One of WALGA's Local Government SS Project** Smithson et al. (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Smithson%20Learnings%20%20from%20%20Phase%20%20One%20%20of%20%20WALGA%E2%80%99s%20%20Local%20%20Government%20%20Safe%20%20System%20%20Project.pdf)
-- **Measuring the Influence of the Road and Roadside in the SS** Stephan and Newstead (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Stephen%20Measuring%20the%20Influence%20of%20the%20Road%20and%20Roadside%20in%20the%20Safe%20System.pdf)
-- **Developing an optimised safety management philosophy** Tate and Brodie (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Tate%20Developing%20an%20optimised%20safety%20management%20philosophy%20reflecting%20the%20Safe%20System%20in%20a%20constrained%20environment.pdf)
+- **Understanding Driving Culture: SS and the ACT** Wright and Gibson (2010) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Rickwood%20Understanding%20Driving%20Culture%20Safe%20System.pdf) `safety culture`
+- **SS Demonstration Project** Senserrick et al. (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Senserrick%20Safe%20System%20Demonstration%20Project.pdf)`demonstration`
+- **Exploring an application of the SS Approach** Shaw et al. (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Shaw%20Exploring%20an%20application%20of%20the%20Safe%20System%20Approach.pdf) `demonstration`
+- **Learnings from Phase One of WALGA's Local Government SS Project** Smithson et al. (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Smithson%20Learnings%20%20from%20%20Phase%20%20One%20%20of%20%20WALGA%E2%80%99s%20%20Local%20%20Government%20%20Safe%20%20System%20%20Project.pdf) `local`
+- **Measuring the Influence of the Road and Roadside in the SS** Stephan and Newstead (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Stephen%20Measuring%20the%20Influence%20of%20the%20Road%20and%20Roadside%20in%20the%20Safe%20System.pdf) `roadside`
+- **Developing an optimised safety management philosophy** Tate and Brodie (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Tate%20Developing%20an%20optimised%20safety%20management%20philosophy%20reflecting%20the%20Safe%20System%20in%20a%20constrained%20environment.pdf) `safety management`
 
 ### JORS
 **[`^        back to top        ^`](#)**
