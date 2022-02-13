@@ -1,11 +1,8 @@
-# Safe Systems
+# Safe System Approach
 
-The 2022 National Roadway Safety Strategy describes the major actions to be taken to make a meaningful difference over the next few years. At the core of this strategy is a Department-wide adoption of the Safe System Approach, which focuses on five key objectives: safer people, safer roads, safer vehicles, safer speeds, and post-crash care. We will launch new programs, coordinate and improve existing programs, and adopt a foundational set of principles to guide this strategy.
-
-A curated list on Safe Systems will be helpful for the researchers.
+The 2022 National Roadway adopted Safe System Approach, which is decade old method applied in Sweden in the 1990s. Later, Australia and New Zealand adoped SSA and during the last 20 years, these countries reduced fatalities by nearly 50%  while U.S reduced fatalities by less than 20%. Thus, there is an urgance for using SSA in the U.S. The U.S. based SSA considers an additional pillar (post-crash crash) compared to the SSA used in other countries. The other four pillars are: safer people, safer roads, safer vehicles, and safer speeds. It is now true that there will be many new programs, and funding opportunities for SSA based analysis in the U.S. As the U.S. safety researchers are not familiar with the SSA, there is a need for a `one place have it all` and this GitHub page aims to fill the gap. 
 
 <a href="https://www.transportation.gov/NRSS/SafeSystem"><img align="center" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/FHWA_SS.PNG"/></a>
-
 
 --------------------
 
