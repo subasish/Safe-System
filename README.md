@@ -24,23 +24,23 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### USDOT
 **[`^        back to top        ^`](#)**
-- **National Roadway Safety Strategy** (2022) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf) `transportation secretary` `imp`
-- **USDOT Safe Systems (SS) Brochure** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20SS%20Brochure.pdf) `imp`
+- **National Roadway Safety Strategy** (2022) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf) `transportation secretary` ❤️
+- **USDOT Safe Systems (SS) Brochure** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20SS%20Brochure.pdf) ❤️
 - **Integrating SS System** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf)
 
 
 
 ### FHWA
 **[`^        back to top        ^`](#)**
-- **A SS Framework and Analytics for Intersections** Porter et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20Porter%20SS%20Analytical%20Intersection.pdf) `intersection` `imp`
-- **Public Road Magazine: SS Issue** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20Public%20Roads%20SS.pdf) `imp`
+- **A SS Framework and Analytics for Intersections** Porter et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20Porter%20SS%20Analytical%20Intersection.pdf) `intersection` ❤️
+- **Public Road Magazine: SS Issue** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20Public%20Roads%20SS.pdf) ❤️ 
 - **SSA with HSIP** Finkel et al. (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf) `HSIP`
 
 
 
 ### DOT
 **[`^        back to top        ^`](#)**
-- **SS Synthesis** North Carolina (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20SS%20Synthesis.pdf) `synthesis`
+- **SS Synthesis** North Carolina (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20SS%20Synthesis.pdf) `synthesis` ❤️
 
 
 ### CSCRS
@@ -57,12 +57,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 **[`^        back to top        ^`](#)**
 - **Improving the Performance of SS Infrastructure** Jurewicz et al. (2015) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2015%20Jurewicz%20SS%20Infrastructure.pdf) `safer roads`
 - **SS Assessment Framework** Turner et al. (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2016%20Turner%20SS%20Assessment%20Framework.pdf) `assessment`
-- **Rollover Crashes: Risk Factors and Solutions** Jurewicz et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/2019%20Jurewicz%20Rollover%20Risk%20Factors.pdf) `rollover`
+- **Rollover Crashes: Risk Factors and Solutions** Jurewicz et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/2019%20Jurewicz%20Rollover%20Risk%20Factors.pdf) `rollover`  ❤️
 
 
 ### ARSC
 **[`^        back to top        ^`](#)**
-- **Incorporating the SS and sociodemographics** Shi et al. (2013) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/(NPR)%20Shi%20-%20Safe%20System.pdf)
+- **Incorporating the SS and sociodemographics** Shi et al. (2013) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/(NPR)%20Shi%20-%20Safe%20System.pdf) 🚩
 - **Striving for SS speeds** Beer (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2011%20Beer%20Striving%20for%20Safe%20System%20Speeds.pdf) `safer speeds`
 - **Classifying SS Fatalities** Smith et al. (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2011%20Page-Smith%20Classifying%20Safe%20System%20Fatalities.pdf) `crash`
 - **Greater understanding of rear-end crashes in a SS** Beck (2015) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2015%20Beck%20Greater%20understanding%20of%20rear%20end%20crashes%20in%20a%20Safe%20System.pdf) `crash`
