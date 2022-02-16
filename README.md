@@ -144,9 +144,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### JORS
 **[`^        back to top        ^`](#)**
-- **2005 Vol. 20 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I02_Rollover.pdf)`rollover`
-
-
 - **2009 Vol. 20 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I02_Rollover.pdf)`rollover`
 - **2009 Vol. 20 Issue 03** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I03_SafetyStrategies.pdf) `safety strategy`
 - **2010 Vol. 21 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2010_V21_I02_SaferRoads.pdf) `safe roads`
