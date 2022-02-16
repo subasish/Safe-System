@@ -66,11 +66,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Guide to Road Safety. 06. Road Safety Audit** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AGRS06-22_Guide_to_Road_Safety_Part-6_Road_Safety_Audit.pdf) `audit`❤️
 - **Guide to Road Safety. 07. Strategy and Management** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AGRS07-21_Guide_to_Road_Safety_Part_7_Road_Safety_Strategy_and_Management.pdf) ❤️
 
-
-
-
-
-
 ### ARSC
 **[`^        back to top        ^`](#)**
 - **Incorporating the SS and sociodemographics** Shi et al. (2013) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/(NPR)%20Shi%20-%20Safe%20System.pdf) 🚩
@@ -153,6 +148,21 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **2015 Vol. 26 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2015_V26_I02_Trauma.pdf) `trauma`
 - **2015 Vol. 26 Issue 03** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2015_V26_I03_SafeRoads.pdf) `safe roads`
 - **2015 Vol. 26 Issue 04** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2015_V26_I04_Veh%20Interlock.pdf) `interlock`
+- **2018 Vol. 29 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I01_Injury.pdf) `injury`
+- **2018 Vol. 29 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I02_Big%20Data.pdf) `Big Data`
+- **2018 Vol. 29 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I03_Alc.pdf) `Alc`
+- **2018 Vol. 29 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I04_Older.pdf) `Older`
+- **2019 Vol. 30 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2019_V30_I01_Celphone%20Local.pdf) `Celphone Local`
+- **2019 Vol. 30 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2019_V30_I03_Aggressive.pdf) `Aggressive`
+- **2019 Vol. 30 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2019_V30_I04_Speeding%20Roundabout.pdf) `Speeding Roundabout`
+- **2020 Vol. 31 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2020_V31_I01_CrashRisk.pdf) `CrashRisk`
+- **2020 Vol. 31 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2020_V31_I02_Crash.pdf) `Crash`
+- **2020 Vol. 31 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2020_V31_I03_Spd%20Manage%20Ped.pdf) `Spd Manage Ped`
+- **2020 Vol. 31 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2020_V31_I04_Risk%20HotSpot.pdf) `Risk HotSpot`
+- **2021 Vol. 32 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2021_V32_I01_SS.pdf) `SS`
+- **2021 Vol. 32 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2021_V32_I02_Crash.pdf) `Crash`
+- **2021 Vol. 32 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2021_V32_I03_Spd%20Manage%20Alc.pdf) `Spd Manage Alc`
+- **2021 Vol. 32 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2021_V32_I04_Spd%20Manage.pdf) `Spd Manage`
 
 
 ### Workshop
@@ -170,8 +180,15 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **09. Intersections** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/9_Intersections.pdf)
 - **10. SS Implementation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/10_Measuring_the_Progress_of_Safe_System_Implementation.pdf)
 
-
-
+### Papers
+- **An Improved System Safety Analysis Method Based on Accimap** Gao et al. (2015) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/2015%20Gao%20Improved%20Accimap.pdf)
+- **Case studies of probe speed data** Jurewicz (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/2019%20Jurewicz%20Probe%20Speed.pdf)
+- **A new accident model for engineering safer systems** Leveson (2004) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anew%20accident%20model%20for%20engineering%20safer%20systems.pdf)
+- **An exploration of alternative intersection designs in the context of SS** Candappa et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anexploration%20of%20alternative%20intersection%20designs%20in%20the%20context%20of%20Safe%20System.pdf)
+- **Asessing the 'system' in SS-based road designs** Cornelissen et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Assessing%20the%20%E2%80%98system%E2%80%99%20in%20safe%20systems-based%20road%20designs.pdf)
+- **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
+- **Application of a crash-predictive risk assessment model** Jurewicz and Excel (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%202.pdf)
+- **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
 
 ### Other
 **[`^        back to top        ^`](#)**
