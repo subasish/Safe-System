@@ -22,6 +22,8 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 
+[Note" ❤️: Noteworthy; 🚩: Non-peer reviewed (use with caution); 🏁: Extended Abstract]
+
 ### USDOT
 **[`^        back to top        ^`](#)**
 - **National Roadway Safety Strategy** (2022) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf) `transportation secretary` ❤️
@@ -45,7 +47,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### CSCRS
 **[`^        back to top        ^`](#)**
-- **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav`
+- **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav` `vru`
 - **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf) 
 - **Structures of Stakeholders Relationship** LaJenueese et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20RS%20Stakeholders.pdf)
 - **Implementating SS in the U.S.: Lesson from International Practice** Dumbaugh et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2019%20CSCRS%20Implement%20SS%20in%20US.pdf)
@@ -65,6 +67,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Guide to Road Safety. 05. Safe Vehicles** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/7_Road_Departures_and_Head-on_Collisions.pdf) `safe vehicles`❤️
 - **Guide to Road Safety. 06. Road Safety Audit** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AGRS06-22_Guide_to_Road_Safety_Part-6_Road_Safety_Audit.pdf) `audit`❤️
 - **Guide to Road Safety. 07. Strategy and Management** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AGRS07-21_Guide_to_Road_Safety_Part_7_Road_Safety_Strategy_and_Management.pdf) ❤️
+- **SS for Local Government** McTiernan et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R518-16_Safe_System_Roads_for_Local_Government.pdf) `local`
+- **Inclusion of Recent Road Safety Research into the Guide to Road Design** Aumann (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R610-20_Inclusion_of_Recent_Road_Safety_Research_into_the_AGRD.pdf) `design`
+- **Integrating SS with Movement and Place for VRUs** Corben (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R611-20-Integrating_Safe_Systems_with_Movement_and_Place_for_Vulnerable_Road_Users.pdf) `vru`
+- **Local Government Road Safety Management Guidance** Durdin and Tuke (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R612-20_Local_Government-_Safety_Management_Guidance.pdf) `vru`
+
+
+
 
 ### ARSC
 **[`^        back to top        ^`](#)**
@@ -135,6 +144,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### JORS
 **[`^        back to top        ^`](#)**
+- **2005 Vol. 20 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I02_Rollover.pdf)`rollover`
+
+
 - **2009 Vol. 20 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I02_Rollover.pdf)`rollover`
 - **2009 Vol. 20 Issue 03** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I03_SafetyStrategies.pdf) `safety strategy`
 - **2010 Vol. 21 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2010_V21_I02_SaferRoads.pdf) `safe roads`
@@ -189,10 +201,19 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
 - **Application of a crash-predictive risk assessment model** Jurewicz and Excel (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%202.pdf)
 - **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
+- **Vision Zero – Implementing a policy for traffic safety** Johansson (2009) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2009%20Johansson%20VZ.pdf)
+- **VZ: An Ethical Approach** Tingbell and Haworth (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/1999%20Tingvall.pdf)
+- **hesUse of Real life Cras** Stigson (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2008%20Stigson.pdf)
+
+https://gith
 
 ### Other
 **[`^        back to top        ^`](#)**
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
+- **High-risk rural roads guide** (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
+
+
+High-risk rural roads guide
 
 --------------------
 
