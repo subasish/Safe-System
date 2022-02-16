@@ -200,14 +200,14 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
 - **Vision Zero – Implementing a policy for traffic safety** Johansson (2009) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2009%20Johansson%20VZ.pdf)
 - **VZ: An Ethical Approach** Tingbell and Haworth (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/1999%20Tingvall.pdf)
-- **The Use of Real life Cras** Stigson (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2008%20Stigson.pdf)
+- **The Use of Real life Crash** Stigson (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2008%20Stigson.pdf)
 
 
 
 ### Other
 **[`^        back to top        ^`](#)**
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
-- **High-risk rural roads guide** (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
+- **High-risk rural roads guide** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
 
 
 
