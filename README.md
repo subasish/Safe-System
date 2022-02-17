@@ -144,24 +144,61 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### JORS
 **[`^        back to top        ^`](#)**
+- **2005 Vol. 16 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2005_V16_I02.pdf)
+- **2006 Vol. 17 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2006_V17_I01.pdf)
+- **2006 Vol. 17 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2006_V17_I02.pdf)
+- **2006 Vol. 17 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2006_V17_I03.pdf)
+- **2006 Vol. 17 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2006_V17_I04.pdf)
+- **2007 Vol. 18 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2007_V18_I01.pdf)
+- **2007 Vol. 18 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2007_V18_I02.pdf)
+- **2007 Vol. 18 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2007_V18_I03.pdf)
+- **2007 Vol. 18 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2007_V18_I04.pdf)
+- **2008 Vol. 19 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2008_V19_I01.pdf)
+- **2008 Vol. 19 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2008_V19_I02.pdf)
+- **2008 Vol. 19 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2008_V19_I03.pdf)
+- **2008 Vol. 19 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2008_V19_I04.pdf)
+- **2009 Vol. 20 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I01.pdf)
 - **2009 Vol. 20 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I02_Rollover.pdf)`rollover`
 - **2009 Vol. 20 Issue 03** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2009_V20_I03_SafetyStrategies.pdf) `safety strategy`
+- **2009 Vol. 20 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I04.pdf)
+- **2010 Vol. 21 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I01.pdf)
 - **2010 Vol. 21 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2010_V21_I02_SaferRoads.pdf) `safe roads`
+- **2010 Vol. 21 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I03.pdf)
+- **2010 Vol. 21 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2010_V21_I04.pdf)
 - **2011 Vol. 22 Issue 01** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2011_V22_I01_YoungDrivers.pdf) `young drivers`
+- **2011 Vol. 22 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2011_V22_I02.pdf)
 - **2011 Vol. 22 Issue 03** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2011_V22_I03_HeavyVehicles.pdf) `heavty vehicles`
 - **2011 Vol. 22 Issue 04** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2011_V22_I04_SafetyMessages.pdf) `safety message`
+- **2012 Vol. 23 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I01.pdf)
+- **2012 Vol. 23 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I01.pdf)
+- **2012 Vol. 23 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I01.pdf)
+- **2012 Vol. 23 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2009_V20_I01.pdf)
 - **2013 Vol. 24 Issue 01** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2013_V24_I01_SaferPeople.pdf) `safe people`
+- **2013 Vol. 24 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2013_V24_I02_UN%20Action.pdf)
+- **2013 Vol. 24 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2013_V24_I03_SafeDrivingWork.pdf)
+- **2013 Vol. 24 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2013_V24_I04_Education.pdf)
 - **2014 Vol. 25 Issue 01** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2014_V25_I01_SS%20SafeSpeeds.pdf) `safe speeds`
+- **2014 Vol. 25 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2014_V25_I02_FutureOfCars.pdf)
+- **2014 Vol. 25 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2014_V25_I03_UN%20Action.pdf)
 - **2014 Vol. 25 Issue 04** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2014_V25_I04_Cycling.pdf) `cycling`
 - **2015 Vol. 26 Issue 01** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2015_V26_I01_NDS.pdf)  `nds`
 - **2015 Vol. 26 Issue 02** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2015_V26_I02_Trauma.pdf) `trauma`
 - **2015 Vol. 26 Issue 03** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2015_V26_I03_SafeRoads.pdf) `safe roads`
 - **2015 Vol. 26 Issue 04** [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/JoRS/2015_V26_I04_Veh%20Interlock.pdf) `interlock`
+- **2016 Vol. 27 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V27_I01.pdf)
+- **2016 Vol. 27 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V27_I02.pdf)
+- **2016 Vol. 27 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V27_I03.pdf)
+- **2016 Vol. 27 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V27_I04.pdf)
+- **2017 Vol. 28 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V28_I01.pdf)
+- **2017 Vol. 28 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V28_I02.pdf)
+- **2017 Vol. 28 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V28_I03.pdf)
+- **2017 Vol. 28 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2016_V28_I04.pdf)
 - **2018 Vol. 29 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I01_Injury.pdf) `injury`
 - **2018 Vol. 29 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I02_Big%20Data.pdf) `Big Data`
 - **2018 Vol. 29 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I03_Alc.pdf) `Alc`
 - **2018 Vol. 29 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2018_V29_I04_Older.pdf) `Older`
 - **2019 Vol. 30 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2019_V30_I01_Celphone%20Local.pdf) `Celphone Local`
+- **2019 Vol. 30 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2019_V30_I02.pdf)
 - **2019 Vol. 30 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2019_V30_I03_Aggressive.pdf) `Aggressive`
 - **2019 Vol. 30 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2019_V30_I04_Speeding%20Roundabout.pdf) `Speeding Roundabout`
 - **2020 Vol. 31 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2020_V31_I01_CrashRisk.pdf) `CrashRisk`
@@ -176,31 +213,31 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### Workshop
 **[`^        back to top        ^`](#)**
-- **01. SS Foundation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/1_Safe_System_Foundations.pdf)
-- **02. System Failure** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/2_System_Failures.pdf)
-- **03. Evolution of SS** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/3_Evolution_of_the_Safe_System.pdf)
-- **04. Conventional vs. SS** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/4_Conventional_vs_Safe_System_Approach_Exercise.pdf)
-- **05. Safer Speeds** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/5_Safer_Speeds.pdf)
-- **06. Leap out a Building** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/6_Would_You_Want_to_Leap_Out_of_a_Building.pdf)
-- **07. Leap out a Building** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/6_Would_You_Want_to_Leap_Out_of_a_Building.pdf)
-- **07. Road Departure and Head-on Collisions** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/7_Road_Departures_and_Head-on_Collisions.pdf)
-- **07a. SS Infrastructure** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/7a_Safe_System_Infrastructure_Workshop.pdf)
-- **08. Speed Management** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/8_Speed_Management.pdf)
-- **09. Intersections** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/9_Intersections.pdf)
-- **10. SS Implementation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/10_Measuring_the_Progress_of_Safe_System_Implementation.pdf)
+- **01. SS Foundation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/1_Safe_System_Foundations.pdf) ❤️
+- **02. System Failure** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/2_System_Failures.pdf) ❤️
+- **03. Evolution of SS** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/3_Evolution_of_the_Safe_System.pdf) ❤️
+- **04. Conventional vs. SS** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/4_Conventional_vs_Safe_System_Approach_Exercise.pdf) ❤️
+- **05. Safer Speeds** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/5_Safer_Speeds.pdf) ❤️
+- **06. Leap out a Building** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/6_Would_You_Want_to_Leap_Out_of_a_Building.pdf) ❤️
+- **07. Leap out a Building** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/6_Would_You_Want_to_Leap_Out_of_a_Building.pdf) ❤️
+- **07. Road Departure and Head-on Collisions** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/7_Road_Departures_and_Head-on_Collisions.pdf) ❤️
+- **07a. SS Infrastructure** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/7a_Safe_System_Infrastructure_Workshop.pdf) ❤️
+- **08. Speed Management** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/8_Speed_Management.pdf) ❤️
+- **09. Intersections** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/9_Intersections.pdf) ❤️
+- **10. SS Implementation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/10_Measuring_the_Progress_of_Safe_System_Implementation.pdf) ❤️ 
 
 ### Papers
-- **An Improved System Safety Analysis Method Based on Accimap** Gao et al. (2015) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/2015%20Gao%20Improved%20Accimap.pdf)
-- **Case studies of probe speed data** Jurewicz (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/2019%20Jurewicz%20Probe%20Speed.pdf)
+- **VZ: An Ethical Approach** Tingbell and Haworth (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/1999%20Tingvall.pdf) ❤️
+- **The Use of Real life Crash** Stigson (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2008%20Stigson.pdf) ❤️
 - **A new accident model for engineering safer systems** Leveson (2004) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anew%20accident%20model%20for%20engineering%20safer%20systems.pdf)
-- **An exploration of alternative intersection designs in the context of SS** Candappa et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anexploration%20of%20alternative%20intersection%20designs%20in%20the%20context%20of%20Safe%20System.pdf)
-- **Asessing the 'system' in SS-based road designs** Cornelissen et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Assessing%20the%20%E2%80%98system%E2%80%99%20in%20safe%20systems-based%20road%20designs.pdf)
+- **Vision Zero – Implementing a policy for traffic safety** Johansson (2009) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2009%20Johansson%20VZ.pdf) ❤️
+- **An Improved System Safety Analysis Method Based on Accimap** Gao et al. (2015) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/2015%20Gao%20Improved%20Accimap.pdf)
 - **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
 - **Application of a crash-predictive risk assessment model** Jurewicz and Excel (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%202.pdf)
 - **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
-- **Vision Zero – Implementing a policy for traffic safety** Johansson (2009) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2009%20Johansson%20VZ.pdf)
-- **VZ: An Ethical Approach** Tingbell and Haworth (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/1999%20Tingvall.pdf)
-- **The Use of Real life Crash** Stigson (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2008%20Stigson.pdf)
+- **Case studies of probe speed data** Jurewicz (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/2019%20Jurewicz%20Probe%20Speed.pdf)
+- **An exploration of alternative intersection designs in the context of SS** Candappa et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anexploration%20of%20alternative%20intersection%20designs%20in%20the%20context%20of%20Safe%20System.pdf)
+- **Asessing the 'system' in SS-based road designs** Cornelissen et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Assessing%20the%20%E2%80%98system%E2%80%99%20in%20safe%20systems-based%20road%20designs.pdf)
 
 
 
