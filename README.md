@@ -33,6 +33,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### ITE
+**[`^        back to top        ^`](#)**
 - **VZ Roundtable Report** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/VZ_Roundtable_Report.pdf) 
 - **Recommendation to SS COnsortium** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Imp.pdf) ❤️
 - **Case Studies of SS in the U.S.** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/US%20SS%20Case%20Studies.pdf) 
@@ -255,7 +256,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Safe Speed factsheet** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf) `rural`  ❤️
 - **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
 
-https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf
+
 --------------------
 
 ### Other Relevant Repositories
