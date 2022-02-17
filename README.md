@@ -253,7 +253,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### CSCRS
 The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, but exactly Safe System. 
-<a href="https://www.roadsafety.unc.edu/"><img align="left" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/CSCRS.PNG"/></a>
+<a href="https://www.roadsafety.unc.edu/"><img align="left" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/CSCRS1.PNG"/></a>
 
 
 - **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav` `vru`
