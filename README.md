@@ -48,23 +48,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Road to Zero: SS Strategic Plan** Abel et al. (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20Abel%20SS%20Stragetigic%20Plan.pdf)   ❤️ 
 
 
-
-
 ### DOT
 **[`^        back to top        ^`](#)**
 - **SS Synthesis** North Carolina (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20SS%20Synthesis.pdf) `synthesis` ❤️
-
-
-### CSCRS
-The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, but exactly Safe System . 
-
-
-- **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav` `vru`
-- **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf) 
-- **Structures of Stakeholders Relationship** LaJenueese et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20RS%20Stakeholders.pdf)
-- **Implementating SS in the U.S.: Lesson from International Practice** Dumbaugh et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2019%20CSCRS%20Implement%20SS%20in%20US.pdf)
-
-**[`^        back to top        ^`](#)**
 
 
 
@@ -84,7 +70,6 @@ The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafe
 - **Inclusion of Recent Road Safety Research into the Guide to Road Design** Aumann (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R610-20_Inclusion_of_Recent_Road_Safety_Research_into_the_AGRD.pdf) `design`
 - **Integrating SS with Movement and Place for VRUs** Corben (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R611-20-Integrating_Safe_Systems_with_Movement_and_Place_for_Vulnerable_Road_Users.pdf) `vru`
 - **Local Government Road Safety Management Guidance** Durdin and Tuke (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R612-20_Local_Government-_Safety_Management_Guidance.pdf) `vru`
-
 
 
 
@@ -254,7 +239,6 @@ The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafe
 - **Asessing the 'system' in SS-based road designs** Cornelissen et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Assessing%20the%20%E2%80%98system%E2%80%99%20in%20safe%20systems-based%20road%20designs.pdf)
 
 
-
 ### Other
 **[`^        back to top        ^`](#)**
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
@@ -267,6 +251,17 @@ The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafe
 
 - [National Roadway Safety Strategy Marks A Critical Turning Point](https://www.railstotrails.org/trailblog/2022/february/03/national-roadway-safety-strategy-marks-a-critical-turning-point/) 
 
+### CSCRS
+The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, but exactly Safe System. 
+<a href="https://www.roadsafety.unc.edu/"><img align="left" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/CSCRS.PNG"/></a>
+
+
+- **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav` `vru`
+- **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf) 
+- **Structures of Stakeholders Relationship** LaJenueese et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20RS%20Stakeholders.pdf)
+- **Implementating SS in the U.S.: Lesson from International Practice** Dumbaugh et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2019%20CSCRS%20Implement%20SS%20in%20US.pdf)
+
+**[`^        back to top        ^`](#)**
 
 
 
