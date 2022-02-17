@@ -257,6 +257,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
 
 
+### News on U.S. based Safe System
+
+- [[National Roadway Safety Strategy Marks A Critical Turning Point]](https://www.railstotrails.org/trailblog/2022/february/03/national-roadway-safety-strategy-marks-a-critical-turning-point/) 
+
+
+
 --------------------
 
 ### Other Relevant Repositories
