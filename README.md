@@ -9,6 +9,7 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 ## Table of contents
 
 - [USDOT](#usdot)
+- [ITE](#ite)
 - [FHWA](#fhwa)
 - [DOT](#dot)
 - [CSCRS](#cscrs)
@@ -31,13 +32,18 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Integrating SS System** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf)
 
 
+### ITE
+- **VZ Roundtable Report** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/VZ_Roundtable_Report.pdf) 
+- **Recommendation to SS COnsortium** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Imp.pdf) ❤️
+- **Case Studies of SS in the U.S.** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/US%20SS%20Case%20Studies.pdf) 
+
 
 ### FHWA
 **[`^        back to top        ^`](#)**
 - **A SS Framework and Analytics for Intersections** Porter et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20Porter%20SS%20Analytical%20Intersection.pdf) `intersection` ❤️
 - **Public Road Magazine: SS Issue** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20Public%20Roads%20SS.pdf) ❤️ 
 - **SSA with HSIP** Finkel et al. (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf) `HSIP`
-
+- **Public Roads SS Issue** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2022%20Public%20Roads%20SS.pdf)   ❤️ 
 
 
 ### DOT
@@ -236,6 +242,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Application of a crash-predictive risk assessment model** Jurewicz and Excel (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%202.pdf)
 - **Exploration of vehicle impact speed** Jurewicz et al. (2016) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Jurewicz%20%201.pdf)
 - **Case studies of probe speed data** Jurewicz (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/2019%20Jurewicz%20Probe%20Speed.pdf)
+- **Safe System in road safety public policy** Green et al. (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Australia%20SS%20Paper%2001.pdf)
 - **An exploration of alternative intersection designs in the context of SS** Candappa et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anexploration%20of%20alternative%20intersection%20designs%20in%20the%20context%20of%20Safe%20System.pdf)
 - **Asessing the 'system' in SS-based road designs** Cornelissen et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Assessing%20the%20%E2%80%98system%E2%80%99%20in%20safe%20systems-based%20road%20designs.pdf)
 
@@ -245,9 +252,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 **[`^        back to top        ^`](#)**
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
 - **High-risk rural roads guide** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
+- **Safe Speed factsheet** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf) `rural`  ❤️
+- **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
 
-
-
+https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf
 --------------------
 
 ### Other Relevant Repositories
