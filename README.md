@@ -26,36 +26,36 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 [Note" ❤️: Noteworthy; 🚩: Non-peer reviewed (use with caution); 🏁: Extended Abstract]
 
 ### USDOT
-**[`^        back to top        ^`](#)**
 - **National Roadway Safety Strategy** (2022) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf) [[website]](https://www.transportation.gov/NRSS) `transportation secretary` ❤️
 - **USDOT Safe Systems (SS) Brochure** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20SS%20Brochure.pdf) [[website]](https://safety.fhwa.dot.gov/zerodeaths/zero_deaths_vision.cfm) ❤️
 - **Integrating SS System** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf)
 
+**[`^        back to top        ^`](#)**
+
 
 ### ITE
-**[`^        back to top        ^`](#)**
 - **VZ Roundtable Report** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/VZ_Roundtable_Report.pdf) 
 - **Recommendation to SS COnsortium** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Imp.pdf) ❤️
 - **Case Studies of SS in the U.S.** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/US%20SS%20Case%20Studies.pdf) 
 
+**[`^        back to top        ^`](#)**
+
 
 ### FHWA
-**[`^        back to top        ^`](#)**
 - **A SS Framework and Analytics for Intersections** Porter et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20Porter%20SS%20Analytical%20Intersection.pdf) `intersection` ❤️
 - **Public Road Magazine: SS Issue** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20Public%20Roads%20SS.pdf) ❤️ 
 - **SSA with HSIP** Finkel et al. (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf) `HSIP`
 - **Public Roads SS Issue** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2022%20Public%20Roads%20SS.pdf)   ❤️ 
 - **Road to Zero: SS Strategic Plan** Abel et al. (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20Abel%20SS%20Stragetigic%20Plan.pdf)   ❤️ 
 
+**[`^        back to top        ^`](#)**
 
 ### DOT
-**[`^        back to top        ^`](#)**
 - **SS Synthesis** North Carolina (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20SS%20Synthesis.pdf) `synthesis` ❤️
 
-
+**[`^        back to top        ^`](#)**
 
 ### Austroads
-**[`^        back to top        ^`](#)**
 - **Improving the Performance of SS Infrastructure** Jurewicz et al. (2015) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2015%20Jurewicz%20SS%20Infrastructure.pdf) `safe roads`
 - **SS Assessment Framework** Turner et al. (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2016%20Turner%20SS%20Assessment%20Framework.pdf) `assessment`
 - **Rollover Crashes: Risk Factors and Solutions** Jurewicz et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/2019%20Jurewicz%20Rollover%20Risk%20Factors.pdf) `rollover`  ❤️
@@ -71,10 +71,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Integrating SS with Movement and Place for VRUs** Corben (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R611-20-Integrating_Safe_Systems_with_Movement_and_Place_for_Vulnerable_Road_Users.pdf) `vru`
 - **Local Government Road Safety Management Guidance** Durdin and Tuke (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-R612-20_Local_Government-_Safety_Management_Guidance.pdf) `vru`
 
-
+**[`^        back to top        ^`](#)**
 
 ### ARSC
-**[`^        back to top        ^`](#)**
 - **Incorporating the SS and sociodemographics** Shi et al. (2013) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/(NPR)%20Shi%20-%20Safe%20System.pdf) 🚩
 - **Striving for SS speeds** Beer (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2011%20Beer%20Striving%20for%20Safe%20System%20Speeds.pdf) `safe speeds`
 - **Classifying SS Fatalities** Smith et al. (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/00_2011%20Page-Smith%20Classifying%20Safe%20System%20Fatalities.pdf) `crash`
@@ -140,8 +139,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Measuring the Influence of the Road and Roadside in the SS** Stephan and Newstead (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Stephen%20Measuring%20the%20Influence%20of%20the%20Road%20and%20Roadside%20in%20the%20Safe%20System.pdf) `roadside`
 - **Developing an optimised safety management philosophy** Tate and Brodie (N.D.) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/Tate%20Developing%20an%20optimised%20safety%20management%20philosophy%20reflecting%20the%20Safe%20System%20in%20a%20constrained%20environment.pdf) `safety management`
 
-### JORS
 **[`^        back to top        ^`](#)**
+
+### JORS
 - **2005 Vol. 16 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2005_V16_I02.pdf)
 - **2006 Vol. 17 Issue 01** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2006_V17_I01.pdf)
 - **2006 Vol. 17 Issue 02** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2006_V17_I02.pdf)
@@ -208,9 +208,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **2021 Vol. 32 Issue 03** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2021_V32_I03_Spd%20Manage%20Alc.pdf) `spd manage` `impaired`
 - **2021 Vol. 32 Issue 04** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/JoRS/2021_V32_I04_Spd%20Manage.pdf) `spd manage`
 
+**[`^        back to top        ^`](#)**
 
 ### Workshop
-**[`^        back to top        ^`](#)**
 - **01. SS Foundation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/1_Safe_System_Foundations.pdf) ❤️
 - **02. System Failure** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/2_System_Failures.pdf) ❤️
 - **03. Evolution of SS** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/3_Evolution_of_the_Safe_System.pdf) ❤️
@@ -223,6 +223,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **08. Speed Management** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/8_Speed_Management.pdf) ❤️
 - **09. Intersections** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/9_Intersections.pdf) ❤️
 - **10. SS Implementation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/10_Measuring_the_Progress_of_Safe_System_Implementation.pdf) ❤️ 
+
+**[`^        back to top        ^`](#)**
 
 ### Papers
 - **VZ: An Ethical Approach** Tingbell and Haworth (1999) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/1999%20Tingvall.pdf) ❤️
@@ -238,23 +240,24 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **An exploration of alternative intersection designs in the context of SS** Candappa et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anexploration%20of%20alternative%20intersection%20designs%20in%20the%20context%20of%20Safe%20System.pdf)
 - **Asessing the 'system' in SS-based road designs** Cornelissen et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Assessing%20the%20%E2%80%98system%E2%80%99%20in%20safe%20systems-based%20road%20designs.pdf)
 
+**[`^        back to top        ^`](#)**
 
 ### Other
-**[`^        back to top        ^`](#)**
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
 - **High-risk rural roads guide** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
 - **Safe Speed factsheet** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf) `rural`  ❤️
 - **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
 
+**[`^        back to top        ^`](#)**
 
 ### News on U.S. based Safe System
-
 - [National Roadway Safety Strategy Marks A Critical Turning Point](https://www.railstotrails.org/trailblog/2022/february/03/national-roadway-safety-strategy-marks-a-critical-turning-point/) 
+
+**[`^        back to top        ^`](#)**
 
 ### CSCRS
 The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, but exactly Safe System. 
 <a href="https://www.roadsafety.unc.edu/"><img align="left" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/CSCRS1.PNG"/></a>
-
 
 - **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav` `vru`
 - **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf) 
