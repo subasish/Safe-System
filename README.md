@@ -12,12 +12,12 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 - [ITE](#ite)
 - [FHWA](#fhwa)
 - [DOT](#dot)
-- [CSCRS](#cscrs)
 - [Austroads](#austroads)
 - [ASRC](#asrc)
 - [JORS](#jors)
 - [Workshop](#workshop)
 - [Other](#other)
+- [CSCRS](#cscrs)
 
 **We need your contributions!**
 
@@ -252,6 +252,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### News on U.S. based Safe System
 - [National Roadway Safety Strategy Marks A Critical Turning Point](https://www.railstotrails.org/trailblog/2022/february/03/national-roadway-safety-strategy-marks-a-critical-turning-point/) 
+
+
+### Opposing Safe System
+- [Book 'Safe System or Stalinist System?: Road Safety at Any Cost'](https://trid.trb.org/view/1603467), Rob Morgan, 2018
 
 **[`^        back to top        ^`](#)**
 
