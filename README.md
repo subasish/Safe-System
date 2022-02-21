@@ -255,7 +255,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Opposing Safe System
-- [Book 'Safe System or Stalinist System?: Road Safety at Any Cost'](https://trid.trb.org/view/1603467), Rob Morgan, 2018
+- Book [Safe System or Stalinist System?: Road Safety at Any Cost](https://trid.trb.org/view/1603467), Rob Morgan, 2018
 
 **[`^        back to top        ^`](#)**
 
