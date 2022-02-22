@@ -17,7 +17,7 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 - [JORS](#jors)
 - [Workshop](#workshop)
 - [KEMM](#kemm)
-- [New Zealand](#nz)
+- [New Zealand](#new)
 - [Sweden](#sweden)
 - [CSCRS](#cscrs)
 
@@ -244,12 +244,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 **[`^        back to top        ^`](#)**
 
-### Kinetic Energy Management Model (KEMM)
+### KEMM
 - **Development of KEMM** Corben (2010)  [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2010_Corben_KEMM.pdf) ❤️
 
 **[`^        back to top        ^`](#)**
 
-### New Zealand (NZ)
+### New Zealand 
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
 - **High-risk rural roads guide** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
 - **Safe Speed factsheet** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf) `rural`  ❤️
