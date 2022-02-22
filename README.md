@@ -16,7 +16,9 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 - [ASRC](#asrc)
 - [JORS](#jors)
 - [Workshop](#workshop)
-- [Other](#other)
+- [KEMM](#kemm)
+- [New Zealand](#nz)
+- [Sweden](#sweden)
 - [CSCRS](#cscrs)
 
 **We need your contributions!**
@@ -242,11 +244,30 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 **[`^        back to top        ^`](#)**
 
-### Other
+### Kinetic Energy Management Model (KEMM)
+- **Development of KEMM** Corben (2010)  [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2010_Corben_KEMM.pdf) ❤️
+
+**[`^        back to top        ^`](#)**
+
+### New Zealand (NZ)
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
 - **High-risk rural roads guide** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
 - **Safe Speed factsheet** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf) `rural`  ❤️
+- **SS Brochure** NZ  [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/safesystemnz.pdf) ❤️
+
+**[`^        back to top        ^`](#)**
+
+
+### Sweden
+- **Saving Lives Beyond 2020** Sweden  [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2019_Sweden_SavingLivesBeyond2020.pdf) ❤️
+
+**[`^        back to top        ^`](#)**
+
+
+### Others
 - **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
+- **Sustainable and Safe** World Resource Institute [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2020_sustainable_and_safe.pdf) 
+
 
 **[`^        back to top        ^`](#)**
 
@@ -260,7 +281,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 **[`^        back to top        ^`](#)**
 
 ### CSCRS
-The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, but exactly Safe System. 
+The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, not exactly Safe System. 
 <a href="https://www.roadsafety.unc.edu/"><img align="left" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/CSCRS1.PNG"/></a>
 
 - **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav` `vru`
