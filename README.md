@@ -17,7 +17,7 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 - [JORS](#jors)
 - [Workshop](#workshop)
 - [KEMM](#kemm)
-- [New Zealand](#new)
+- [New Zealand](#newzealand)
 - [Sweden](#sweden)
 - [CSCRS](#cscrs)
 
