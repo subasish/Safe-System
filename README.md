@@ -279,7 +279,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **The Global Motorcycle Industry’s Approach to Road Safety** IMMA (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/imma.pdf) `motorcycle` 
 - **Motorcycle Crashes in Australia** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/Motorcycle_Crash_Fact_Sheet.pdf) `motorcycle` 
 - **NSW Motorcycle Safety Strategy 2012 – 2021** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcycle_strategy2012.pdf) `motorcycle` 
-- **NSW Motorcycle Safety Strategy 2012 – 2021** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcycle_strategy2012.pdf) `motorcycle` 
+- **Motorcycle safety in Western Australia** Hobday (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/MotorcycleSafetyWASafeSystemApproach.pdf) `motorcycle` 
+- **Improving Safety for Motorcycle, Scooter and Moped Riders** OECD (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcyclesaf.pdf) `motorcycle` 
+- **Motorcycle Crash** Budd et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/vsrg.pdf) `motorcycle` 
 
 
 
