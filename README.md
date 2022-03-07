@@ -85,13 +85,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Effective use of clear zones and barriers in a SS context** Doecke and Woolley (2010) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2010%20Doecke%20Effective%20use%20of%20clear%20zones.pdf)
 - **Increasing SS Awareness** Harrison et al. (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2011%20Cruise%20Safe%20System%20Awareness.pdf)
 - **SS Infrastructure** Hall (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2011%20Hall%20Safe%20System%20Infrastructure%20from%20Theory%20to%20Practice.pdf) `safe roads`
-- **Motorcycling and the SS** Holgate (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2011%20Holgate%20Motorcycling%20and%20the%20Safe%20System.pdf) `motorcycle`
 - **Risk-based approach to speed limits** Jurewics and Turner (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2011%20Jurewicz%20Risk%20based%20approach%20to%20speed%20limits.pdf) `safe speeds`
 - **Understanding and Implementing SS approach** Brodie (2012) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2012%20Brodie%20Understanding%20and%20Implementing%20the%20Safe%20System%20approach.pdf)
 - **High risk intersections: making sense of SS in practice** Hughes and Durdin (2012) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2012%20Hughes%20High%20risk%20intersections%20Making%20sense%20of%20safe%20systems%20in%20practice.pdf) `intersection`
 - **A SS-based approach to selection of clear zones** Jurewicz and Troutbeck (2012) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2012%20Jurewicz%20A%20safety%20performance-based%20method%20for%20clear%20zone%20selection.pdf) `clear zone`
 - **Exploring the application of the SS approach to cycling** Shaw et al. (2012) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2012%20Shaw%20Exploring%20the%20application%20of%20the%20Safe%20System%20Approach%20to%20cycling.pdf) `vru`
-- **Making Roundabouts a SS Solution for Motorcyclists** Beer et al. (2014) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2014%20(NPR)%20Beer%20Making%20Roundabouts%20a%20Safe%20System%20Solution%20for%20Motorcyclists.pdf) `motorcycle` 🚩
 - **SS for sustainable pedestrian safety** Hoque et al. (2013) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2013%20(NPR)%20Hoque%20Pedestrians.pdf) `vru` 🚩
 - **The SS in Practice** Climo et al. (2013) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2013%20Dugdale%20The%20Safe%20System%20in%20Practice.pdf)
 - **Designing a SS for vulnerable road users** Bolitho (2014) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2014%20(NPR)%20Bolitho%20Designing%20a%20safe%20system%20for%20vulnerable%20road%20users.pdf) `vru` 🚩
@@ -116,7 +114,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **The challenges of coordinating a multi-agency SS approach** Norberg et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20(EA)%20Norberg%20The%20challenges%20of%20coordinating%20a%20multi-agency%20safe%20systems.pdf) 🏁
 - **Integrating SS principles** Peterson and Harrison (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20(EA)%20Peterson%20Integrating%20safe%20system%20principles%20throughout%20TMR.pdf) 🏁
 - **Delivering SS outcomes** Steinmetz et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20(EA)%20Steinmetz%20Delivering%20Safe%20System.pdf) 🏁
-- **A SS Response: Protecting Motorcyclists** Sirol et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20(EA)%20Sutton%20A%20Safe%20Systems%20Response.pdf) `motorcycle` 🏁
 - **The safety impacts and program benefits of SS Assessments** Turner and Moon (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/ARSC/2018%20(EA)%20Turner%20The%20safety%20impacts%20and%20program%20benefits%20of%20Safe%20System.pdf) `assessment` 🏁
 - **Applying SS and increasing stakeholder engagement** Wilson-Ridley et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20(EA)%20Wilson-Ridley%20Applying%20safe%20systems%20and%20increasing%20stakeholder%20engagement.pdf) 🏁
 - **Can Mobility Management Deliver the Next Step-change** Jurewicz et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20Jurewicz%20Can%20%20Mobility%20Management%20%20Deliver%20%20the%20Next%20%20Step-chang.pdf)
@@ -264,12 +261,32 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 **[`^        back to top        ^`](#)**
 
 
+
 ### Others
 - **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
 - **Sustainable and Safe** World Resource Institute [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2020_sustainable_and_safe.pdf) 
 
 
 **[`^        back to top        ^`](#)**
+
+
+### Motorcycle
+- **Motorcycling and the SS** Holgate (2011) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2011%20Holgate%20Motorcycling%20and%20the%20Safe%20System.pdf) `motorcycle`
+- **Making Roundabouts a SS Solution for Motorcyclists** Beer et al. (2014) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2014%20(NPR)%20Beer%20Making%20Roundabouts%20a%20Safe%20System%20Solution%20for%20Motorcyclists.pdf) `motorcycle` 🚩
+- **A SS Response: Protecting Motorcyclists** Sirol et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20(EA)%20Sutton%20A%20Safe%20Systems%20Response.pdf) `motorcycle` 🏁
+- **MotoSafe: Active Safe System for Digital Forensics of Motorcycle Rider with Android** Condro et al. (2012) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/171A00275.pdf) `motorcycle`
+- **Towards a Safe System Approach to Prevent Health Loss among Motorcyclists** Rizzi (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/235886.pdf) `motorcycle` `thesis`
+- **The Global Motorcycle Industry’s Approach to Road Safety** IMMA (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/imma.pdf) `motorcycle` 
+- **Motorcycle Crashes in Australia** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/Motorcycle_Crash_Fact_Sheet.pdf) `motorcycle` 
+- **NSW Motorcycle Safety Strategy 2012 – 2021** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcycle_strategy2012.pdf) `motorcycle` 
+- **NSW Motorcycle Safety Strategy 2012 – 2021** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcycle_strategy2012.pdf) `motorcycle` 
+
+
+
+**[`^        back to top        ^`](#)**
+
+
+
 
 ### News on U.S. based Safe System
 - [National Roadway Safety Strategy Marks A Critical Turning Point](https://www.railstotrails.org/trailblog/2022/february/03/national-roadway-safety-strategy-marks-a-critical-turning-point/) 
@@ -290,6 +307,9 @@ The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafe
 - **Implementating SS in the U.S.: Lesson from International Practice** Dumbaugh et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2019%20CSCRS%20Implement%20SS%20in%20US.pdf)
 
 **[`^        back to top        ^`](#)**
+
+
+
 
 
 
