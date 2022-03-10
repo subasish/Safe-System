@@ -8,7 +8,6 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 
 **A 30 minute video on Safe System Approach**
 
-Click on the image to watch the video
 [![Watch a Safe Sytem video](https://github.com/subasish/safesystems/blob/main/Documents/Fig/SS.PNG)](https://www.youtube.com/watch?v=1Xnm0EKAo5U)
 
 
