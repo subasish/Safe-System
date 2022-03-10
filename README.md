@@ -44,6 +44,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### ITE
+- **Safe System Resources** Wunderlich and Paniati (2022) [[pdf]](https://www.ite.org/technical-resources/topics/safe-systems/)  `website`
 - **VZ Roundtable Report** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/VZ_Roundtable_Report.pdf) 
 - **Recommendation to SS COnsortium** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Imp.pdf) ❤️
 - **Case Studies of SS in the U.S.** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/US%20SS%20Case%20Studies.pdf) 
