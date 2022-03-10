@@ -4,6 +4,11 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 
 <a href="https://www.transportation.gov/NRSS/SafeSystem"><img align="center" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/FHWA_SS.PNG"/></a>
 
+**A 30 minute video on Safe System Approach**
+Click on the image to watch the video
+[![Watch a Safe Sytem video](https://github.com/subasish/safesystems/blob/main/Documents/Fig/SS.PNG)](https://www.youtube.com/watch?v=1Xnm0EKAo5U)
+
+
 --------------------
 
 ## Table of contents
@@ -32,7 +37,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **USDOT Safe Systems (SS) Brochure** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20SS%20Brochure.pdf) [[website]](https://safety.fhwa.dot.gov/zerodeaths/zero_deaths_vision.cfm) ❤️
 - **Integrating SS System** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf)
 
-[![Watch a Safe Sytem video](https://github.com/subasish/safesystems/blob/main/Documents/Fig/SS.PNG)](https://www.youtube.com/watch?v=1Xnm0EKAo5U)
 
 **[`^        back to top        ^`](#)**
 
