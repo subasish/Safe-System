@@ -27,6 +27,9 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 - [NZ](#nz)
 - [Sweden](#sweden)
 - [CSCRS](#cscrs)
+- [RFP](#rfp)
+- [RIP](#rip)
+
 
 **We need your contributions!**
 
@@ -247,6 +250,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Safe System in road safety public policy** Green et al. (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Australia%20SS%20Paper%2001.pdf)
 - **An exploration of alternative intersection designs in the context of SS** Candappa et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Anexploration%20of%20alternative%20intersection%20designs%20in%20the%20context%20of%20Safe%20System.pdf)
 - **Asessing the 'system' in SS-based road designs** Cornelissen et al. (N.D.) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/Papers/Assessing%20the%20%E2%80%98system%E2%80%99%20in%20safe%20systems-based%20road%20designs.pdf)
+- **Safe System in road safety public policy: A case study from Victoria, Australia** Green et al. (2022) [[link]](https://www.sciencedirect.com/science/article/pii/S0386111221000480?via%3Dihub) ❤️
+- **Safe System for Intersections Method Scoring: Comparing Intersection Alternatives Based on Exposure, Kinetic Energy Management, and Movement Complexity** Dunn et al. (2022) [[link]](https://journals.sagepub.com/doi/10.1177/03611981221111152) ❤️
+
+
 
 **[`^        back to top        ^`](#)**
 
@@ -274,6 +281,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### Others
 - **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
 - **Sustainable and Safe** World Resource Institute [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2020_sustainable_and_safe.pdf) 
+- **The SSA in Action** International Transportation Forum (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021_SSA_Action.pdf) 
 
 
 **[`^        back to top        ^`](#)**
@@ -320,9 +328,14 @@ The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafe
 **[`^        back to top        ^`](#)**
 
 
+### RFP
+- **NCHRP 17-113: Incorporating Safe System Approach into the NCHRP Report 500 Series** (2022) [[link]](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=5342) `ssa` `nchrp`
+- **Synthesis of Information Related to Highway Practices: DOT Practices on Road Safety Audits** (2022) [[link]](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=5286) `ssa` `nchrp`
+- **NCHRP 20-24(145): Harnessing the Safe System Approach to Meaningfully Improve Traffic Safety** (2023) [[link]](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=5424) `ssa` `nchrp`
 
 
-
+### RIP 
+- **NCHRP 17-101: Applying the Safe System Approach to Transportation Planning, Design, and Operations in the United States** (UNC, 2023) [[link]](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=5088) `ssa` `nchrp`
 
 --------------------
 
